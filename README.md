@@ -124,6 +124,7 @@ Observations: the dataset has no duplicate keys on the checked columns; it begin
 Remaining dashboard pages, more tests, a Delta-backed local mode, SCD Type 2 on a real changing dimension, data-quality alerting.
 
    ## Screenshots
-   ![Dashboard overview](screenshots/dashboard-overview.png)
-   ![Top categories, products and pipeline stages](screenshots/dashboard-charts.png)
-   ![Data quality and rejected records](screenshots/dashboard-quality-rejected.png)
+![Dashboard overview](screenshots/dashboard-overview.png)
+![Top categories, products and pipeline stages](screenshots/dashboard-charts.png)
+![Data quality and rejected records](screenshots/dashboard-quality-rejected.png)
+![Databricks Gold KPIs on Delta tables](screenshots/databricks-gold-kpis.png)
