@@ -123,5 +123,7 @@ Observations: the dataset has no duplicate keys on the checked columns; it begin
 ## Future work
 Remaining dashboard pages, more tests, a Delta-backed local mode, SCD Type 2 on a real changing dimension, data-quality alerting.
 
-## Screenshots
-Add images to `screenshots/` (dashboard, rejected panel, Databricks notebook output) and link them here.
+   ## Screenshots
+   ![Dashboard overview](screenshots/dashboard-overview.png)
+   ![Top categories, products and pipeline stages](screenshots/dashboard-charts.png)
+   ![Data quality and rejected records](screenshots/dashboard-quality-rejected.png)
